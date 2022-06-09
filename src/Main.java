@@ -35,6 +35,8 @@ public class Main {
         System.out.println("Rezultatul scaderii este: " + scadere(5,3));
         System.out.println("Rezultatul inmultirii este: " + inmultire(7,9));
         System.out.println("Rezultatul impartirii este: " + impartire(10,15));
+        java print;
+        print.printJAVA();
     }
 
     public static void printMyName(){
